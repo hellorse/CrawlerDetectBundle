@@ -1,5 +1,5 @@
 {
-    "name": "nmure/crawler-detect-bundle",
+    "name": "hellorse/crawler-detect-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony bundle for the Crawler-Detect library (detects bots/crawlers/spiders via the user agent)",
     "keywords": ["crawler", "bot", "detect", "user-agent", "symfony", "bundle"],
